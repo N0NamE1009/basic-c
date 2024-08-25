@@ -1,0 +1,3 @@
+/home/wr2357/Documentos/GitHub/C/basic-c/basic_elements/data_types/cmake-build-debug/CMakeFiles/data_types.dir
+/home/wr2357/Documentos/GitHub/C/basic-c/basic_elements/data_types/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wr2357/Documentos/GitHub/C/basic-c/basic_elements/data_types/cmake-build-debug/CMakeFiles/rebuild_cache.dir
