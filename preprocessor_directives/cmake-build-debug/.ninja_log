@@ -1,0 +1,15 @@
+# ninja log v6
+0	17	1724554329834926498	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+17	31	1724554329851926886	preprocessor_directives	31ab7496b59df9
+0	16	1724554375630972757	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+16	30	1724554375646973122	preprocessor_directives	31ab7496b59df9
+0	17	1724554464741025065	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+17	30	1724554464758025473	preprocessor_directives	31ab7496b59df9
+1	16	1724554478864364461	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+16	28	1724554478879364822	preprocessor_directives	31ab7496b59df9
+1	18	1724554494493740039	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+18	31	1724554494510740448	preprocessor_directives	31ab7496b59df9
+0	17	1724554511214141848	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+17	29	1724554511231142256	preprocessor_directives	31ab7496b59df9
+1	15	1724554519094331221	CMakeFiles/preprocessor_directives.dir/main.c.o	ac2b9e9079dd102
+15	28	1724554519108331557	preprocessor_directives	31ab7496b59df9

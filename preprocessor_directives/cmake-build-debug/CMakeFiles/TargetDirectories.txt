@@ -1,0 +1,3 @@
+/home/wr2357/Documentos/GitHub/C/basic-c/preprocessor_directives/cmake-build-debug/CMakeFiles/preprocessor_directives.dir
+/home/wr2357/Documentos/GitHub/C/basic-c/preprocessor_directives/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wr2357/Documentos/GitHub/C/basic-c/preprocessor_directives/cmake-build-debug/CMakeFiles/rebuild_cache.dir
